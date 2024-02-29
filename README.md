@@ -10,8 +10,8 @@ The code from the paper "A Cross-dimensional Attention Discriminating Masked Met
 you can direct testing of CDADM on the BDG2 and ele datasets. The BDG2 data is provided, and the ele dataset can be downloaded from https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014.
 
 ## Architecture 
-![The CDADM model architecture.](figure2.png)
+![The CDADM model architecture.](figure2.jpg)
 
 ## Experimental 
-![Experimental Result](figure3.png)
+![Experimental Result](figure3.jpg)
 
